@@ -12,7 +12,7 @@ The prediction models are trained and evaluated on the **Earthquake Data.csv** d
 ## Usage
 1. Clone the repository:
    ```
-   git clone [<repository_url>](https://github.com/Ganesh2609/Earthquake-Magnitude-Prediction.git)
+   git clone https://github.com/Ganesh2609/Earthquake-Magnitude-Prediction.git
    ```
    
 3. Open and run **model_comparision.ipynb** in Jupyter Notebook or Jupyter Lab to explore the code, train the models, and analyze the results.
